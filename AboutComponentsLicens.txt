@@ -1,0 +1,97 @@
+The following describes the components used to create the program and licenses to which they apply
+All extracts are taken from the license files or official websites of the respective components
+
+SAPTaskBar:
+Developed using the Lazarus IDE www.lazarus-ide.org
+Some icons are taken from www.aha-soft.com site
+Inno Setup www.jrsoftware.org, Inno script studio www.kymoto.org
+Use the library for Pascal language:
+FPC libraries like RTL, FCL and LCL and also some bundled packages as part of Lazarus IDE
+Graphics32 library www.graphics32.org
+Indy components library www.indyproject.org
+
+Lazarus IDE
+modified Library GNU General Public License that is used for Lazarus and FPC libraries like RTL, FCL and LCL and also some bundled packages
+checked - all used modules use this license. You can read it license on site http://wiki.freepascal.org/FPC_modified_LGPL 
+Below is a linked exception published in this document:
+
+"As a special exception, the copyright holders of this library give you 
+permission to link this library with independent modules to produce an 
+executable, regardless of the license terms of these independent modules, 
+and to copy and distribute the resulting executable under terms of your choice, 
+provided that you also meet, for each linked independent module, the terms 
+and conditions of the license of that module. An independent module is a 
+module which is not derived from or based on this library. If you modify this 
+library, you may extend this exception to your version of the library, but 
+you are not obligated to do so. If you do not wish to do so, delete this 
+exception statement from your version."
+
+End of Lazarus IDE part
+
+Graphics32
+Graphics32 is licensed under the Mozilla Public License (MPL) 1.1 and
+the Lesser General Public License (LGPL) 2.1 with linking exception. 
+Below shows only linking exception part:
+
+"As a special exception, the copyright holders of this library give you
+permission to link this library with independent modules to produce an
+executable, regardless of the license terms of these independent modules,
+and to copy and distribute the resulting executable under terms of your choice,
+provided that you also meet, for each linked independent module, the terms
+and conditions of the license of that module. An independent module is a
+module which is not derived from or based on this library. If you modify this
+library, you may extend this exception to your version of the library, but
+you are not obligated to do so. If you do not wish to do so, delete this
+exception statement from your version."
+
+End of Graphics32 part
+
+Synapse
+Synapse is licensed under BSD License
+To meet the requirement of a Synapse BSD License the following information:
+
+Copyright (c)1999-2002, Lukas Gebauer                                       
+All rights reserved.                                                        
+
+Redistribution and use in source and binary forms, with or without          
+modification, are permitted provided that the following conditions are met: 
+
+Redistributions of source code must retain the above copyright notice, this 
+list of conditions and the following disclaimer.                            
+
+Redistributions in binary form must reproduce the above copyright notice,   
+this list of conditions and the following disclaimer in the documentation   
+and/or other materials provided with the distribution.                      
+
+Neither the name of Lukas Gebauer nor the names of its contributors may     
+be used to endorse or promote products derived from this software without   
+specific prior written permission.                                          
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE   
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE  
+ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR 
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL      
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR  
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER  
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT          
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY   
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGE.                                                                     
+
+End of Synapse part.
+
+Icons
+Some icons are taken from http://www.aha-soft.com/free-icons/ from packages:
+16x16 Free Toolbar Icons,
+16x16 Free Application Icons
+All icons in theis packages are licensed under a Creative Commons Attribution-Share Alike 3.0 License
+detail of license you can see in site http://creativecommons.org/licenses/by/3.0/us/
+
+End of Icons part
+
+Inno Setup, Inno script studio
+This is the free software
+but they saved a lot of time in developing the program
+
+End of Inno Setup, Inno script studio

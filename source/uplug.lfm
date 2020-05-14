@@ -1,0 +1,25 @@
+object fmPlug: TfmPlug
+  Left = 353
+  Height = 240
+  Top = 138
+  Width = 320
+  BorderStyle = bsNone
+  Caption = 'fmPlug'
+  ClientHeight = 240
+  ClientWidth = 320
+  Enabled = False
+  FormStyle = fsSystemStayOnTop
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnPaint = FormPaint
+  LCLVersion = '1.6.2.0'
+  object Bevel: TBevel
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    Align = alClient
+    Shape = bsFrame
+    Style = bsRaised
+  end
+end
